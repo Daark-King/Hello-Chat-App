@@ -1,0 +1,6 @@
+js/package/
+js/package-lock/
+js/node_moduls/
+NodeServer/package/
+NodeServer/package-lock/
+NodeServer/node_moduls/
